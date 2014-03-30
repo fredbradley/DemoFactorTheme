@@ -1,0 +1,424 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?><!-- Student Radio Members XML Feed -->
+<stations>
+<station id="105">
+<name><![CDATA[107 Spark FM]]></name>
+<institution><![CDATA[University of Sunderland]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1258.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/105]]></moreinfo>
+<url><![CDATA[http://www.sparksunderland.com]]></url>
+<stream quality='high'><![CDATA[http://istream.transplanuk.com/sparkcr128.mp3]]></stream>
+<stream quality='low'><![CDATA[http://istream.transplanuk.com/sparkcr32.mp3]]></stream>
+</web>
+</station>
+<station id="3">
+<name><![CDATA[1449AM URB]]></name>
+<institution><![CDATA[University of Bath]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS77.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/3]]></moreinfo>
+<url><![CDATA[http://1449urb.co.uk]]></url>
+<stream quality='high'><![CDATA[http://icecast.urb.bath.ac.uk:8000/urb.mp3]]></stream>
+<stream quality='low'><![CDATA[http://icecast.urb.bath.ac.uk:8000/urb-low.mp3]]></stream>
+</web>
+</station>
+<station id="85">
+<name><![CDATA[Aberdeen Student Radio]]></name>
+<institution><![CDATA[University of Aberdeen]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS823.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/85]]></moreinfo>
+<url><![CDATA[http://www.aberdeenstudentradio.org]]></url>
+<stream quality='high'><![CDATA[http://mediaserv.abdn.ac.uk:8000/asr.m3u]]></stream>
+<stream quality='low'><![CDATA[http://mediaserv.abdn.ac.uk:8000/asr.low.m3u]]></stream>
+</web>
+</station>
+<station id="7">
+<name><![CDATA[Bailrigg FM]]></name>
+<institution><![CDATA[Lancaster University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS349.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/7]]></moreinfo>
+<url><![CDATA[http://www.bailriggfm.co.uk]]></url>
+<stream quality='high'><![CDATA[http://stream.radio.lancs.ac.uk/256.mp3]]></stream>
+<stream quality='low'><![CDATA[http://stream.radio.lancs.ac.uk/32.mp3]]></stream>
+</web>
+</station>
+<station id="9">
+<name><![CDATA[Blast]]></name>
+<institution><![CDATA[University of West London]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1229.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/9]]></moreinfo>
+<url><![CDATA[http://www.blast-westlondon.co.uk]]></url>
+<stream quality='high'><![CDATA[http://uk2-vn.mixstream.net/8038.pls]]></stream>
+</web>
+</station>
+<station id="157">
+<name><![CDATA[Brookes Radio]]></name>
+<institution><![CDATA[Oxford Brookes University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1465.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/157]]></moreinfo>
+<url><![CDATA[http://www.brookesradio.com]]></url>
+</web>
+</station>
+<station id="11">
+<name><![CDATA[BurnFM.com]]></name>
+<institution><![CDATA[University of Birmingham]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS114.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/11]]></moreinfo>
+<url><![CDATA[http://www.burnfm.com]]></url>
+<stream quality='high'><![CDATA[http://burnfm.com/listen/]]></stream>
+</web>
+</station>
+<station id="112">
+<name><![CDATA[Burst Radio]]></name>
+<institution><![CDATA[University of Brighton]]></institution>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/112]]></moreinfo>
+<url><![CDATA[http://www.burstradio.co.uk]]></url>
+</web>
+</station>
+<station id="13">
+<name><![CDATA[CSR]]></name>
+<institution><![CDATA[University of Kent, Canterbury Christ Church University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1472.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/13]]></moreinfo>
+<url><![CDATA[http://www.csrfm.com]]></url>
+<stream quality='high'><![CDATA[http://stream.csrfm.com/stream.m3u]]></stream>
+</web>
+</station>
+<station id="141">
+<name><![CDATA[d:one]]></name>
+<institution><![CDATA[University of Derby]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1336.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/141]]></moreinfo>
+<url><![CDATA[http://http://www.doneradio.com/]]></url>
+<stream quality='high'><![CDATA[http://178.32.5.21:8150/;stream.mp3]]></stream>
+<stream quality='low'><![CDATA[http://178.32.5.21:8150/;stream.mp3]]></stream>
+</web>
+</station>
+<station id="17">
+<name><![CDATA[Demon FM]]></name>
+<institution><![CDATA[De Montfort University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1446.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/17]]></moreinfo>
+<url><![CDATA[http://http://www.demonfm.co.uk]]></url>
+<stream quality='high'><![CDATA[http://live.demonfm.co.uk:8000/demon]]></stream>
+<stream quality='low'><![CDATA[http://live.demonfm.co.uk:8000/demon48]]></stream>
+</web>
+</station>
+<station id="156">
+<name><![CDATA[DGVibes]]></name>
+<institution><![CDATA[Dumfries and Galloway College]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1450.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/156]]></moreinfo>
+<url><![CDATA[http://https://www.facebook.com/DGvibes]]></url>
+</web>
+</station>
+<station id="66">
+<name><![CDATA[Fly FM]]></name>
+<institution><![CDATA[Nottingham Trent Students Union]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS781.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/66]]></moreinfo>
+<url><![CDATA[http://www.flyfm.co.uk]]></url>
+<stream quality='high'><![CDATA[flyfm.co.uk/player]]></stream>
+</web>
+</station>
+<station id="69">
+<name><![CDATA[Forge Radio]]></name>
+<institution><![CDATA[Sheffield University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS411.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/69]]></moreinfo>
+<url><![CDATA[http://www.forgeradio.com]]></url>
+<stream quality='high'><![CDATA[http://radio.canstream.co.uk:8021/forgeradio.mp3]]></stream>
+<stream quality='low'><![CDATA[http://radio.canstream.co.uk:8021/forgeradio.mp3]]></stream>
+</web>
+</station>
+<station id="20">
+<name><![CDATA[Fresh Air]]></name>
+<institution><![CDATA[Edinburgh University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1286.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/20]]></moreinfo>
+<url><![CDATA[http://www.freshair.org.uk]]></url>
+<stream quality='high'><![CDATA[http://www.freshair.org.uk/popout.html]]></stream>
+</web>
+</station>
+<station id="93">
+<name><![CDATA[Hub Radio]]></name>
+<institution><![CDATA[University of The West of England]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1455.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/93]]></moreinfo>
+<url><![CDATA[http://www.hubradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://flashheart.hubradio.co.uk/hub-hq.mp3]]></stream>
+<stream quality='low'><![CDATA[http://flashheart.hubradio.co.uk/hub-lq.mp3]]></stream>
+</web>
+</station>
+<station id="24">
+<name><![CDATA[IC Radio]]></name>
+<institution><![CDATA[Imperial College]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1285.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/24]]></moreinfo>
+<url><![CDATA[http://www.icradio.com]]></url>
+<stream quality='high'><![CDATA[http://icecast.icradio.com:8000/mp3-high.m3u]]></stream>
+</web>
+</station>
+<station id="26">
+<name><![CDATA[Junction11]]></name>
+<institution><![CDATA[Reading University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1456.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/26]]></moreinfo>
+<url><![CDATA[http://www.junction11radio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://stream.junction11radio.co.uk:8080/j11_stream.mp3]]></stream>
+<stream quality='low'><![CDATA[http://stream.junction11radio.co.uk:8080/j11_LQ.mp3]]></stream>
+</web>
+</station>
+<station id="98">
+<name><![CDATA[Latitude Radio]]></name>
+<institution><![CDATA[University of Greenwich]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1430.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/98]]></moreinfo>
+<url><![CDATA[http://www.facebook.com/latituderadio]]></url>
+<stream quality='high'><![CDATA[http://78.129.227.10:8080]]></stream>
+<stream quality='low'><![CDATA[http://78.129.227.10:8080]]></stream>
+</web>
+</station>
+<station id="28">
+<name><![CDATA[LCR]]></name>
+<institution><![CDATA[Loughborough Univeristy]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS935.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/28]]></moreinfo>
+<url><![CDATA[http://lsu.co.uk/lcr]]></url>
+<stream quality='high'><![CDATA[158.125.14.12:8080/lcrhigh]]></stream>
+<stream quality='low'><![CDATA[158.125.14.12:8080/lcrlow]]></stream>
+</web>
+</station>
+<station id="31">
+<name><![CDATA[Leeds Student Radio]]></name>
+<institution><![CDATA[Leeds Universities]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1434.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/31]]></moreinfo>
+<url><![CDATA[http://lsrfm.com]]></url>
+<stream quality='high'><![CDATA[http://lush.wavestreamer.com:6648/listen.pls]]></stream>
+</web>
+</station>
+<station id="30">
+<name><![CDATA[Livewire]]></name>
+<institution><![CDATA[UEA]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1323.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/30]]></moreinfo>
+<url><![CDATA[http://www.livewire1350.com]]></url>
+<stream quality='high'><![CDATA[http://livewire1350.com/listen-live/]]></stream>
+</web>
+</station>
+<station id="150">
+<name><![CDATA[Looprevil Radio]]></name>
+<institution><![CDATA[Liverpool John Moores University]]></institution>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/150]]></moreinfo>
+<url><![CDATA[http://http://looprevilradio.co.uk/]]></url>
+<stream quality='high'><![CDATA[http://stream2.hippynet.co.uk/tunein.php/cessfor/playlist.mp3]]></stream>
+</web>
+</station>
+<station id="90">
+<name><![CDATA[LSRadio]]></name>
+<institution><![CDATA[University of Liverpool]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1289.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/90]]></moreinfo>
+<url><![CDATA[http://www.lsradio.co.uk]]></url>
+<stream quality='high'><![CDATA[www.lsradio.co.uk]]></stream>
+</web>
+</station>
+<station id="32">
+<name><![CDATA[LUSH Radio]]></name>
+<institution><![CDATA[Leicester University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1117.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/32]]></moreinfo>
+<url><![CDATA[http://www.lushradio.net]]></url>
+<stream quality='high'><![CDATA[http://s2.xrad.io:8020]]></stream>
+</web>
+</station>
+<station id="82">
+<name><![CDATA[MUSU Radio]]></name>
+<institution><![CDATA[Middlesex Univesity]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS779.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/82]]></moreinfo>
+<url><![CDATA[http://www.mdxsu.com]]></url>
+<stream quality='high'><![CDATA[mdxsu.com]]></stream>
+<stream quality='low'><![CDATA[N/A]]></stream>
+</web>
+</station>
+<station id="73">
+<name><![CDATA[Nerve Radio]]></name>
+<institution><![CDATA[Bournemouth University Students\' Union]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1093.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/73]]></moreinfo>
+<url><![CDATA[http://www.nervemedia.org.uk]]></url>
+<stream quality='high'><![CDATA[http://stream.nervemedia.org.uk ]]></stream>
+</web>
+</station>
+<station id="70">
+<name><![CDATA[Pure FM]]></name>
+<institution><![CDATA[University of Portsmouth]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1296.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/70]]></moreinfo>
+<url><![CDATA[http://www.purefm.com]]></url>
+<stream quality='high'><![CDATA[http://streams.purefm.com:8000/live256.mp3]]></stream>
+<stream quality='low'><![CDATA[http://streams.purefm.com:8000/live32.mp3]]></stream>
+</web>
+</station>
+<station id="72">
+<name><![CDATA[Purple Radio]]></name>
+<institution><![CDATA[Durham University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS816.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/72]]></moreinfo>
+<url><![CDATA[http://www.purpleradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://www.purpleradio.co.uk/stream.php]]></stream>
+<stream quality='low'><![CDATA[purpleradio.co.uk/mp3stream.mp3]]></stream>
+</web>
+</station>
+<station id="138">
+<name><![CDATA[Quest Radio]]></name>
+<institution><![CDATA[Queen Mary, University of London]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1359.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/138]]></moreinfo>
+<url><![CDATA[http://www.questradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://www.centovav3.shoutstream.co.uk/tunein/vpopovic.pls]]></stream>
+</web>
+</station>
+<station id="158">
+<name><![CDATA[Radio ENRG]]></name>
+<institution><![CDATA[Edinburgh Napier University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1466.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/158]]></moreinfo>
+</web>
+</station>
+<station id="149">
+<name><![CDATA[Radio Hud]]></name>
+<institution><![CDATA[University of Huddersfield]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1384.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/149]]></moreinfo>
+<url><![CDATA[http://www.radiohud.co.uk]]></url>
+</web>
+</station>
+<station id="41">
+<name><![CDATA[Shock Radio]]></name>
+<institution><![CDATA[Salford University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1410.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/41]]></moreinfo>
+<url><![CDATA[http://shockradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://live.shockradio.co.uk/mp3]]></stream>
+<stream quality='low'><![CDATA[http://live.shockradio.co.uk/mobile]]></stream>
+</web>
+</station>
+<station id="97">
+<name><![CDATA[Tequila Radio]]></name>
+<institution><![CDATA[The University of Glamorgan]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1269.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/97]]></moreinfo>
+<url><![CDATA[http://www.tequilaradio.co.uk]]></url>
+<stream quality='high'><![CDATA[rtmp://estream.southwales.ac.uk/UoGBcast/radio]]></stream>
+</web>
+</station>
+<station id="89">
+<name><![CDATA[The Cat 1251]]></name>
+<institution><![CDATA[The University of Chester]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1072.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/89]]></moreinfo>
+<url><![CDATA[http://www.thecatradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://thecat.chester.ac.uk:8000/thecat1251.mp3.m3u]]></stream>
+</web>
+</station>
+<station id="145">
+<name><![CDATA[The Voice at Runshaw]]></name>
+<institution><![CDATA[Runshaw College]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1372.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/145]]></moreinfo>
+<url><![CDATA[http://www.runshaw.ac.uk/student-life/721-the-voice-at-runshaw]]></url>
+</web>
+</station>
+<station id="79">
+<name><![CDATA[Tone Radio]]></name>
+<institution><![CDATA[University of Gloucestershire]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1137.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/79]]></moreinfo>
+<url><![CDATA[http://www.toneradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://listen.toneradiolive.co.uk:8000/aac-high.m3u]]></stream>
+<stream quality='low'><![CDATA[http://listen.toneradiolive.co.uk:8000/aac-low.m3u]]></stream>
+</web>
+</station>
+<station id="51">
+<name><![CDATA[URF]]></name>
+<institution><![CDATA[University of Sussex]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1150.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/51]]></moreinfo>
+<url><![CDATA[http://www.urfonline.com]]></url>
+<stream quality='high'><![CDATA[http://listen.urfonline.com:8000/stream160k.mp3]]></stream>
+<stream quality='low'><![CDATA[http://listen.urfonline.com:8000/stream160k.mp3]]></stream>
+</web>
+</station>
+<station id="52">
+<name><![CDATA[URN]]></name>
+<institution><![CDATA[Nottingham University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1158.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/52]]></moreinfo>
+<url><![CDATA[http://www.urn1350.net]]></url>
+<stream quality='high'><![CDATA[http://128.243.106.145:8080/urn_high.mp3]]></stream>
+<stream quality='low'><![CDATA[http://128.243.106.145:8080/urn_low.mp3]]></stream>
+</web>
+</station>
+<station id="57">
+<name><![CDATA[Wired]]></name>
+<institution><![CDATA[Goldsmiths College, University of London]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS1459.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/57]]></moreinfo>
+<url><![CDATA[http://www.wiredradio.co.uk]]></url>
+<stream quality='high'><![CDATA[http://owl.gold.ac.uk:8000/wired]]></stream>
+</web>
+</station>
+<station id="59">
+<name><![CDATA[Xpression FM]]></name>
+<institution><![CDATA[Exeter University]]></institution>
+<logo>http://www.studentradio.org.uk/imageLS787.jpg</logo>
+<web>
+<moreinfo><![CDATA[http://www.studentradio.org.uk/radio/59]]></moreinfo>
+<url><![CDATA[http://www.xpressionfm.info]]></url>
+<stream quality='high'><![CDATA[http://xmedia.ex.ac.uk:8000/high-quality]]></stream>
+<stream quality='low'><![CDATA[http://xmedia.ex.ac.uk:8000/low-quality]]></stream>
+</web>
+</station>
+</stations>

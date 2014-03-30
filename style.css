@@ -1,0 +1,245 @@
+/*
+Theme Name: SRA Demo Factor
+Theme URI: http://fred.im/
+Author: Fred Bradley
+Author URI: http://fred.im/
+Description: A basic theme with a bootstrap backbone.
+Version: 1.0
+Tags: bootstrap
+
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+Fred's Bootstrap 3 Backbone theme, Copyright 2013 Fred Bradley <hello@fredbradley.co.uk>
+This theme is distributed under the terms of the GNU GPL
+
+Useful for Social Media Branding: http://www.quora.com/What-is-the-HEX-color-that-LinkedIn-uses-for-blue
+
+North Media Talent Logo Colour codes are:
+Main purple: #480017
+Secondary: #AE0038
+Some whites: #ebeceb
+Grey/dark: #212121
+
+
+DEMO FACTOR GOLD: F9b25e / c9844c
+*/
+html { -webkit-font-smoothing: antialiased; }
+
+body {
+	background: url('images/df_site_background.jpg') #0a1a22 !important;
+	color:#fff; /* 0a1a22 */
+}
+a {
+	color:#f1db13;
+}
+a:hover {
+	color:#480017;
+}
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+.clearfix.spacer {
+	height:80px;
+	display: block;
+}
+.df-main-nav {
+	background: #f9b25e;
+	border-color: #c9844c;
+	border-width: 5px;
+	border-radius: 8px;
+}
+.df-main-nav .navbar-nav>.active>a,
+.df-main-nav .navbar-nav>.active>a:hover,
+.df-main-nav .navbar-nav>.active>a:focus,
+.df-main-nav .navbar-nav>li>a:hover,
+.df-main-nav .nav-justified>.active>a,
+.df-main-nav .nav-justified>.active>a:hover,
+.df-main-nav .nav-justified>.active>a:focus,
+.df-main-nav .nav-justified>li>a:hover  {
+	background: #c9844c;
+	color: #ffffff;
+	height: auto;
+}
+.df-main-nav .navbar-nav>li>a,
+.df-main-nav .nav-justified>li>a {
+	color:#000000;
+	font-size:1.1em;
+	font-weight: bolder;
+	height: auto;
+}
+.df-main-nav .navbar-toggle,
+.df-main-nav .navbar-toggle:hover {
+	background-color: transparent;
+	border-color: #ffffff;
+	color:#ffffff;
+}
+.df-main-nav .navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+.df-nav-collapse {
+	padding:0px;
+}
+.df-main-nav .df-nav-collapse {
+	border: none;
+	box-shadow: none;
+} 
+#cscf_message {
+	height:70px;
+}
+.featurette-heading.less span.lead {
+	border-bottom: solid #f1db13 2px;
+	color:#f1db13;
+}
+
+#contact-chris-form .comment-subscription-form {
+	display: none;
+}
+form#frmCSCF label {
+	display: none;
+}
+.twitter-button {
+	margin-top:10px;
+}
+span.bold {
+	font-weight: 500;
+	font-size: 0.6em;
+}
+.featurette-heading.less {
+	margin-top:0px;
+}
+.thumbnail-placeholder {
+	background: #ccc;
+}
+.img-responsive {
+	margin: auto;
+}
+ul.social{
+	list-style-type:none;
+	margin:0 0 0 0;
+	padding:0;
+	float:left;
+}
+div.row.socialbuttons div div a {
+	text-align: center;
+	padding:10px 0 0 0;
+	font-size:26px;
+	color:#FFF;
+	display: block;
+	width: 100%;
+	height: 55px;
+	text-decoration: none;
+}
+h1.logo {
+	text-indent: -99999px;
+	display: none;
+}
+div.row.socialbuttons {
+	margin-bottom:10px;
+}
+div.row.socialbuttons div div:hover{
+	opacity:0.8;
+	text-decoration: none;
+}
+div.linkedin {
+	background: #4875B4;
+}
+div.twitter {
+	background: #17a8dd;
+}
+div.gplus {
+	background: #C63D2D;
+}
+ul.social li{
+	width:150px;
+	height:55px;
+	margin-right:3px;
+	/*float:left;*/
+	text-align:center;
+	margin-bottom:3px;
+	padding:0;
+}
+ul.social li:nth-last-child(1){
+	margin-right:0;
+}
+ul.social li a{
+	display:block;
+	width:150px;
+	width: 100%;
+	height:55px;
+	background:#316db7;
+	padding:15px 0 0 0;
+}
+ul.social li a.facebook{ background:#316db7; }
+ul.social li a.linkedin {background: #4875B4;}
+ul.social li a.twitter{ background:#17a8dd; }
+ul.social li a.rss{ background:#ff9204; }
+ul.social li a i{
+	font-size:26px;
+	color:#FFF;
+}
+
+.logo-container,
+.pagination-centered {
+	margin: auto;
+	text-align: center;
+}
+#logo-image {
+	margin: 20px auto 20px auto;
+}
+.audio_player_embed {
+	display: block;
+	width: 100%;
+}
+iframe {
+	border:none;
+}
+.youtube_embed, 
+.youtube_embed iframe {
+	max-width: 100%;
+}	
+.meta {
+
+}
+.row.no-padding {
+	padding:0px;
+}
+.post-type-archive-judges .judge h3 {
+	text-align: center;
+}
+footer#phat-footer {
+	padding-bottom: 50px;
+}
+
+/* GET NAV BAR TO CENTER */
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+
+/* Small Tablets and Phones */
+@media(max-width:767px) {
+    /* Here */
+	.df-main-nav .navbar-nav>li>a,
+	.df-main-nav .nav-justified>li>a {
+		margin-left:10px;
+	}
+}
+/* Most Tablets */
+
+/* // GET NAV BAR TO CENTER */
+
+.fivecolumn .col-md-2 {
+	width: 17.94871794871795%;
+	*width: 17.884615384615383%;
+}
